@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valentin-alexandru0099&label=Profile%20views&color=0e75b6&style=flat" alt="valentin-alexandru0099" /> </p>
 
-- 🔭 I’m currently working on [ADHD Grande](https://github.com/CodecoolGlobal/el-proyecte-grande-sprint-1-java-Valentin-Alexandru0099)
+- 🌱 I’m currently learning **Java, Soring Boot, Security, React(tsx, jsx), Gutenberb Blocks (wordpress & drupal), nextJs**
 
-- 🌱 I’m currently learning **Java, Soring Boot, Security, React**
-
-- 💬 Ask me about **Java, Spring Boot**
+- 💬 Ask me about **Anything you want**
 
 - 📫 How to reach me **dumitru.valentin.alexandru0@gmail.com**
 
-- ⚡ Fun fact **I used to hate Java, but now I want to use it on every Project!**
+- ⚡ **Improvise. Adapt. Overcome**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
